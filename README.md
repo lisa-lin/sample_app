@@ -5,4 +5,4 @@ This is the sample application for the
 Learn Web Development with Rails*](http://www.railstutorial.org/)
 by [Michael Hartl](http://www.michaelhartl.com/).
 
-[Link](http://aqueous-citadel-47985.herokuapp.com/) to my application
+[See it live!](http://aqueous-citadel-47985.herokuapp.com/)
